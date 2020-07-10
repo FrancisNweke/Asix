@@ -1,4 +1,4 @@
-#About
+##About
 Asix website with full screen slider.
 
 ## Contributing
