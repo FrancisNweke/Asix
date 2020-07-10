@@ -1,4 +1,4 @@
-##About
+# About
 Asix website with full screen slider.
 
 ## Contributing
@@ -9,5 +9,5 @@ For major changes, please open an issue first to discuss what you would like to 
 
 Please make sure to update tests as appropriate.
 
-##License
+## License
 ASIX Limited
